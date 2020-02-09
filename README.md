@@ -1,6 +1,6 @@
 ## Contents
 
-- [qt55](https://github.com/Homebrew/homebrew-core/pull/32565),
+- [qt@5.5](https://github.com/Homebrew/homebrew-core/pull/32565),
 
 ## Installation
 
